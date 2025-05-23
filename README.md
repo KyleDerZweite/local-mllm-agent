@@ -19,6 +19,7 @@ This project implements a terminal-based local agent in Python that dynamically 
 
 The agent follows a modular architecture centered around a `core` engine and pluggable `modules`.
 
+```
 agent/ 
 ├── agent.py # CLI Entry point 
 ├── core/ 
@@ -38,6 +39,7 @@ agent/
 │ ├── main.py 
 │ └── AGENT.md 
 └── README.md # Detailed documentation
+```
 
 ## Code
 
