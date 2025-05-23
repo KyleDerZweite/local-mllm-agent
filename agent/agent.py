@@ -117,7 +117,7 @@ def main():
     else:
         print(f'Final Output: {response_content}')
     
-    print(f'Status: {result.get('status', 'No status provided.')}')
+    print(f"Status: {result.get('status', 'No status provided.')}")
     print(f'{section_line}\n')
 
     if args.verbose and result.get('execution_history'):
