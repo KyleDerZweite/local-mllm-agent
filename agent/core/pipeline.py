@@ -213,7 +213,7 @@ if __name__ == '__main__':
     pipeline = Pipeline()
     
     # Test Case 1: Simple success sequence
-    print(f'\n{'='*20} Test Case 1: Simple success sequence {'='*20}')
+    print(f"\n{'='*20} Test Case 1: Simple success sequence {'='*20}")
     sequence1 = [
         {'name': 'Step1', 'module_instance': s_tool1, 'params': {'value': 10}},
         {'name': 'Step2', 'module_instance': a_tool}
