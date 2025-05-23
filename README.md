@@ -98,4 +98,4 @@ This project aims to evolve beyond its current CLI implementation to provide mor
 Contributions to any aspect of the project are welcome! Whether you want to improve the core agent functionality, develop new modules, or work on the planned web interface, please feel free to submit issues and pull requests.
 
 ## License
-[Add your license information here]
+This project is licensed under the Apache License 2.0 - see the [LICENSE.md](LICENSE.md) file for details.
